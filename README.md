@@ -46,14 +46,6 @@ Each notebook is designed to run on Google Colab.
 - Open notebook link in Colab  
 - Follow instructions inside the notebook  
 
-### Local Setup
-If you want to run locally:
-```bash
-git clone https://github.com/karin-8/MedTech2025.git
-cd healthcare-ml-course
-pip install -r requirements.txt
-````
-
 ---
 
 ## 🧰 Requirements
@@ -67,11 +59,6 @@ pip install -r requirements.txt
 * [FastAPI](https://fastapi.tiangolo.com/) (for Notebook 4 demo)
 * [MLflow](https://mlflow.org/) (for monitoring demo)
 
-Install all dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
