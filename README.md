@@ -44,7 +44,7 @@ Each notebook is designed to run on Google Colab.
 ### Local Setup
 If you want to run locally:
 ```bash
-git clone https://github.com/yourusername/healthcare-ml-course.git
+git clone https://github.com/karin-8/MedTech2025.git
 cd healthcare-ml-course
 pip install -r requirements.txt
 ````
