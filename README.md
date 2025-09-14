@@ -9,24 +9,29 @@ This course takes you from **Python basics** all the way to **AI engineering & d
 
 This repository contains four Jupyter/Colab notebooks:
 
-1. **Notebook 1 — Introduction to Python in Healthcare**  
+1. **Notebook 1 — Introduction to Python in Healthcare**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/karin-8/MedTech2025/blob/main/notebooks/Nb1_PyHealth.ipynb)
+
    - Setup Python environment  
    - Install and check ML libraries  
    - Run your first interactive calculation  
 
-2. **Notebook 2 — Computer Vision in Healthcare**  
+2. **Notebook 2 — Computer Vision in Healthcare**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/karin-8/MedTech2025/blob/main/notebooks/Nb2_PyHealth.ipynb)
    - Preprocess chest X-ray images  
    - Apply **transfer learning (ResNet)**  
    - Train & evaluate a pneumonia detection model  
    - Reflect on AI ethics in diagnosis  
 
-3. **Notebook 3 — Machine Learning with Tabular Data**  
+3. **Notebook 3 — Machine Learning with Tabular Data**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/karin-8/MedTech2025/blob/main/notebooks/Nb3_PyHealth.ipynb)
    - Work with **structured clinical data** (Pima Indians Diabetes dataset)  
    - Explore, clean, and preprocess features  
    - Train classifiers (Random Forest, Logistic Regression, SVM)  
    - Evaluate with metrics, confusion matrix, ROC-AUC  
 
-4. **Notebook 4 — AI Engineering**  
+4. **Notebook 4 — AI Engineering**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/karin-8/MedTech2025/blob/main/notebooks/Nb4_PyHealth.ipynb)
    - Deploy a model with **FastAPI** (conceptual demo)  
    - Track experiments with **MLflow**  
    - Understand **model monitoring** & **automatic retraining**  
@@ -48,20 +53,6 @@ git clone https://github.com/karin-8/MedTech2025.git
 cd healthcare-ml-course
 pip install -r requirements.txt
 ````
-
----
-
-## 📂 Repository Structure
-
-```
-.
-├── Notebook1_Intro_Python_Healthcare.ipynb
-├── Notebook2_Computer_Vision_Healthcare.ipynb
-├── Notebook3_Tabular_Data_Healthcare.ipynb
-├── Notebook4_AI_Engineering.ipynb
-├── README.md
-└── requirements.txt
-```
 
 ---
 
